@@ -1,0 +1,6 @@
+.DS_Store
+cache/views/*
+!cache/views/index.html
+vendor/
+composer.lock
+composer.phar
